@@ -1,4 +1,3 @@
-Black rice - no reaction
 All purpose wheat flour - no reaction
 Apples - hives
 Artichokes - no reaction
@@ -8,6 +7,7 @@ Baking soda - itchiness, dryness
 Barley - no reaction
 Beef - no reaction
 Beets - cannot digest
+Black rice - no reaction
 Blueberries - no reaction
 Broccoli - no reaction
 Brussel sprouts - no reaction
@@ -56,4 +56,5 @@ Tomatoes - itchiness, dryness, undigestable
 Tuna - no reaction
 Turkey - no reaction
 Whey protein isolate - no reaction
+White Quinoa - no reaction
 Yogurt - dry red skin
